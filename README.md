@@ -1,3 +1,5 @@
+### My Projects
+
 Repository containing both personal and university projects
 
 <!--
